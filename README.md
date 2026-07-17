@@ -42,6 +42,15 @@ La particolarita principale e il **mese finanziario personalizzato**: invece di 
 
 ---
 
+## :camera: Screenshots
+
+<p>
+  <img src="docs/screenshots/01-dashboard.jpeg" alt="Dashboard riepilogativa" width="320">
+  <img src="docs/screenshots/02-charts.jpeg" alt="Grafici per categoria" width="320">
+</p>
+
+---
+
 ## :open_file_folder: Repository Structure
 
 ```text
