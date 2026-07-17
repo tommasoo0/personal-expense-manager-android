@@ -65,8 +65,8 @@ GestoreSpeseAndroid/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tommasoo0/gestore-spese-android.git
-cd gestore-spese-android
+git clone https://github.com/tommasoo0/personal-expense-manager-android.git
+cd personal-expense-manager-android
 ```
 
 ### 2. Open in Android Studio
